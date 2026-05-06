@@ -1,0 +1,89 @@
+body {
+    background-color:#151521 ;
+    margin: 5px;
+    padding: 20px;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: #efcd11d3;
+    font-size: 35px;
+    font-weight: 600;
+    text-align: center;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: #efcd11d3;
+    font-size: 35px;
+    font-weight: 600;
+    text-align: center;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #f4e6be;
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+a {
+    color: #f4e6be;
+    text-decoration: none;
+    border-bottom: 2px solid #efcd11d3;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+main {
+    max-width: 720px;
+    margin: 0 auto;
+    padding-top: 60px;
+}
+
+section {
+    text-align: center;
+}
+
+ul,
+ol,
+li {
+    color: #f4e6be;
+}
+/* Page-specific font sizes */
+.home p {
+    font-size: 26px;   /* index.html */
+}
+
+.about p {
+    font-size: 14px;   /* about.html */
+}
+.home h1 {
+    font-size: 55px;
+}
+.home-photo {
+    width: 100%;        
+    max-height: 300px;  
+    object-fit: cover;  
+    display: block;
+    margin: 0 auto;
+}
+
+.about-image-row {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin: 40px auto;
+    flex-wrap: wrap;   
+}
+
+.about-image-row img {
+    width: 250px;      
+    height: 250px;     
+    object-fit: cover; 
+    border-radius: 8px;
+}
