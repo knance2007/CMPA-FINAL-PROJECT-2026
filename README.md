@@ -4,7 +4,15 @@ This project is a two‑page website for a fictional law firm I created for my C
 
 The purpose of this project was to build a clean, organized site that is user friendly using semantic HTML and CSS while practicing proper file structure and risk management. It also serves as an early piece in my professional portfolio as I continue developing my skills for future coursework and career opportunities.
 
-https://knance2007.github.io/CMPA-FINAL-Project-2026/
+## Live Website
+[View the live site](https://knance2007.github.io/CMPA-FINAL-PROJECT-2026/)
+
+## Project documentation is stored in the `docs/` folder:
+
+- [Scope Statement](docs/scope.md)
+- [Project Plan (TAME + WBS)](docs/plan.md)
+- [Retrospective](docs/retrospective.md
+
 
 
 
