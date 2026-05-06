@@ -11,7 +11,8 @@ The purpose of this project was to build a clean, organized site that is user fr
 
 - [Scope Statement](docs/scope.md)
 - [Project Plan (TAME + WBS)](docs/plan.md)
-- [Retrospective](docs/retrospective.md
+- [Retrospective](docs/retrospective.md)
+
 
 
 
